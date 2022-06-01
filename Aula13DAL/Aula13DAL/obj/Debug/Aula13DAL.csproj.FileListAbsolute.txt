@@ -1,0 +1,16 @@
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\bin\Debug\Aula13DAL.exe.config
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\bin\Debug\Aula13DAL.exe
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\bin\Debug\Aula13DAL.pdb
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.csproj.AssemblyReference.cache
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.frmCalculadora.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.TelaP.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.Properties.Resources.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.csproj.GenerateResource.cache
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.csproj.CoreCompileInputs.cache
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.exe
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.pdb
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.frmComparacao.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.frmRegra3.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.frmNome.resources
+C:\Users\201210077\source\repos\Aula13DAL\Aula13DAL\obj\Debug\Aula13DAL.frmPop.resources
